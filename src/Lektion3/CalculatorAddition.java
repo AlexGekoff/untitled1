@@ -19,7 +19,7 @@ public class CalculatorAddition {
         Calculator calc = new Calculator(number1, number2);
 
         // Anropar metoderna för de olika operationerna
-        calc.addition();
+        calc.add();
 
     }
 }
